@@ -21,7 +21,7 @@ This project is a RESTful API for managing blood bank data, built using ASP.NET 
 
 ### 1. Clone the Repository
 Run the following command to clone the project:
-git clone https://github.com/shashanksola/BloodBankWebAPI.git
+git clone https://github.com/Likhithacodes/APIAssignment
 
 ** 2. In Visual Studio, select the Open a project or solution option.**
 ![image](https://github.com/user-attachments/assets/6c80d8a0-d7df-4813-81eb-eb3260e05286)
